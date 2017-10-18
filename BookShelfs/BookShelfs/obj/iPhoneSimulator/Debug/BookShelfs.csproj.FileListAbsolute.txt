@@ -1,0 +1,9 @@
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhoneSimulator/Debug/BookShelfs.csproj.CoreCompileInputs.cache
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/bin/iPhoneSimulator/Debug/BookShelfs.exe
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/bin/iPhoneSimulator/Debug/BookShelfs.pdb
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhoneSimulator/Debug/BookShelfs.exe
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhoneSimulator/Debug/BookShelfs.pdb

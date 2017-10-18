@@ -14,5 +14,8 @@ namespace BookShelfs
     [Register ("TableViewController")]
     partial class TableViewController
     {
+        void ReleaseDesignerOutlets ()
+        {
+        }
     }
 }
