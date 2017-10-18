@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AF5EDABC-5A38-4E2A-A226-5B9F5AA3A134}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookShelfs/TableViewController.cs">
+    <Files>
+      <File FileName="BookShelfs/Main.storyboard" />
+      <File FileName="BookShelfs/TableViewController.cs" Line="14" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookShelfs PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3208A04A-3C89-452B-8CB3-D9776FE68793">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BookShelfs>
+</Properties>
