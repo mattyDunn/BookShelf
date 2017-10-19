@@ -19,7 +19,9 @@ namespace BookShelfs
                 Name = "Harry Potter", 
                 Author = "J.K.K Rowling", 
                 Editor = "Bloomsberry", 
-                Year = 1998
+                Year = 1998,
+                ImagePath = "Resources/HP1.jpeg"
+                    
             });
 
 			bookList.Add(new Book()
@@ -27,7 +29,9 @@ namespace BookShelfs
 				Name = "Harry Potter 2",
 				Author = "J.K.K Rowling",
 				Editor = "Bloomsberry",
-				Year = 1999
+				Year = 1999,
+
+					 ImagePath = "Resources/HP1.jpeg"
 			});
 
 			bookList.Add(new Book()
@@ -35,7 +39,8 @@ namespace BookShelfs
 				Name = "Harry Potter 3",
 				Author = "J.K.K Rowling",
 				Editor = "Bloomsberry",
-				Year = 2000
+				Year = 2000,
+				ImagePath = "Resources/HP1.jpeg"
 			});
 
         }
@@ -60,6 +65,21 @@ namespace BookShelfs
 
             return cell;
         }
+
+        public override void PrepareForSegue (UIStoryboardSegue segue, NSObject sender)
+        {
+            if(segue.Identifier == "DetailsSegue")
+            {
+                var navigationController = segue.DestinationViewController as DetailsViewController;
+
+                if(navigationController != null)
+                {
+                    var rowPath = TableView.IndexPathForSelectedRow;
+                    var selectedData = bookList[rowPath.Row];
+                    navigationController.selectedBook = selectedData;
+                }
+            }
+        }
     }
 
     public class Book
@@ -68,5 +88,6 @@ namespace BookShelfs
         public string Author;
         public string Editor;
         public int Year;
+        public string ImagePath;
     }
 }

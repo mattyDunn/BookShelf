@@ -1,0 +1,9 @@
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/bin/iPhone/Debug/BookShelfs.exe
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/bin/iPhone/Debug/BookShelfs.pdb
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhone/Debug/optimized/
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhone/Debug/BookShelfs.csproj.CoreCompileInputs.cache
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhone/Debug/BookShelfs.exe
+/Users/matthewd1/Desktop/BookShelf/BookShelfs/BookShelfs/obj/iPhone/Debug/BookShelfs.pdb
