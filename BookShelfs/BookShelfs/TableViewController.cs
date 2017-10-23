@@ -20,7 +20,7 @@ namespace BookShelfs
                 Author = "J.K.K Rowling", 
                 Editor = "Bloomsberry", 
                 Year = 1998,
-                ImagePath = "Resources/HP1.jpeg"
+                ImagePath = "Images/HP1.jpg"
                     
             });
 
@@ -30,8 +30,7 @@ namespace BookShelfs
 				Author = "J.K.K Rowling",
 				Editor = "Bloomsberry",
 				Year = 1999,
-
-					 ImagePath = "Resources/HP1.jpeg"
+               ImagePath = "Images/HP2.jpeg"
 			});
 
 			bookList.Add(new Book()
@@ -40,7 +39,7 @@ namespace BookShelfs
 				Author = "J.K.K Rowling",
 				Editor = "Bloomsberry",
 				Year = 2000,
-				ImagePath = "Resources/HP1.jpeg"
+				ImagePath = "Images/HP3.jpeg"
 			});
 
         }

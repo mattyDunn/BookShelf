@@ -88,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Images\" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
@@ -115,6 +116,9 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\HP1.jpg" />
+    <BundleResource Include="Images\HP1.jpg" />
+    <BundleResource Include="Images\HP3.jpeg" />
+    <BundleResource Include="Images\HP2.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
